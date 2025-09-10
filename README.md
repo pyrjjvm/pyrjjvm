@@ -2,6 +2,6 @@
 
 Computer Engineering & Analytics | ML & AI Enthusiast
 
-About Me
+## About Me
 
 I’m a junior at the University of Houston passionate about turning data into insights and building AI solutions that tackle real-world challenges. My experience spans computer vision, machine learning, and data-driven decision making, both in projects and hackathons.
