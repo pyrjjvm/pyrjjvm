@@ -1,7 +1,6 @@
 # Hi, I'm Joshua 👋
 
 Computer Engineering & Analytics | ML & AI Enthusiast | Embedded Systems
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyrjjvm/)
 
 ## About Me
 
@@ -14,4 +13,5 @@ Languages: Python | Java | C | MATLAB
 
 ML & AI: TensorFlow | PyTorch | scikit-learn
 
+Let's talk: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyrjjvm/)
 
