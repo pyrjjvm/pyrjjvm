@@ -1,4 +1,4 @@
-##Hi, I'm Joshua 👋
+# Hi, I'm Joshua 👋
 
 Computer Engineering & Analytics | ML & AI Enthusiast
 
