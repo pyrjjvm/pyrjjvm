@@ -13,4 +13,4 @@ Languages: Python | Java | C | MATLAB
 
 ML & AI: TensorFlow | PyTorch | scikit-learn
 
-Tools: Figma | Excel | ARCGIS | Canvas LMS
+
