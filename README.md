@@ -9,7 +9,12 @@ My experience spans computer vision, machine learning, and data-driven decision 
 
 ## 💻 Skills
 
-Languages: Python | Java | C | MATLAB
+Languages: 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
 
 ML & AI: TensorFlow | PyTorch | scikit-learn
 
