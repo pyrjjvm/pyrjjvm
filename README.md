@@ -1,6 +1,6 @@
 # Hi, I'm Joshua 👋
 
-Computer Engineering & Analytics | ML & AI Enthusiast | Embedded Systems
+Computer Engineering & Analytics | ML & AI | Embedded Systems
 
 ## About Me
 
