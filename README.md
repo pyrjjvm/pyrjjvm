@@ -7,6 +7,10 @@ Computer Engineering & Analytics | ML & AI | Embedded Systems
 I’m a junior at the University of Houston passionate about turning data into insights and building AI solutions that tackle real-world challenges. 
 My experience spans computer vision, machine learning, and data-driven decision making, both in projects and hackathons.
 
+## 🚧 Currently Working On
+
+- Participating in the **RSNA Intracranial Aneurysm Detection Challenge**, applying deep learning to medical imaging.
+
 ## 💻 Skills
 
 Languages: 
