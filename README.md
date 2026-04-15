@@ -9,7 +9,7 @@ My experience spans computer vision, machine learning, and data-driven decision 
 
 ## 🚧 Currently Working On
 
-- Participating in the **RSNA Intracranial Aneurysm Detection Challenge**, applying deep learning to medical imaging.
+- Researching Improved Edge Inference with Stochastic Computing 
 
 ## 💻 Skills
 
